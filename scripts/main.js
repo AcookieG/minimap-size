@@ -1,7 +1,7 @@
 const cur1e = require("cur1e-shared");
 
 const PREF = "minimapsize-scale";
-const DEFAULT = 100, MIN = 10, MAX = 400, STEP = 5;
+const DEFAULT = 100, MIN = 5, MAX = 400, STEP = 5;
 const VANILLA_SIZE = 140;
 
 let minimap = null;
